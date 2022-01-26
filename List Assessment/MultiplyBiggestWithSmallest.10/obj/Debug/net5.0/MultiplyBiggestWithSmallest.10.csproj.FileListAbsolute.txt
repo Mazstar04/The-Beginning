@@ -1,0 +1,32 @@
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\bin\Debug\net5.0\MultiplyBiggestWithSmallest.10.exe
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\bin\Debug\net5.0\MultiplyBiggestWithSmallest.10.deps.json
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\bin\Debug\net5.0\MultiplyBiggestWithSmallest.10.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\bin\Debug\net5.0\MultiplyBiggestWithSmallest.10.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\bin\Debug\net5.0\MultiplyBiggestWithSmallest.10.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\bin\Debug\net5.0\ref\MultiplyBiggestWithSmallest.10.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\bin\Debug\net5.0\MultiplyBiggestWithSmallest.10.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\ref\MultiplyBiggestWithSmallest.10.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\bin\Debug\net5.0\MultiplyBiggestWithSmallest.10.exe
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\bin\Debug\net5.0\MultiplyBiggestWithSmallest.10.deps.json
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\bin\Debug\net5.0\MultiplyBiggestWithSmallest.10.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\bin\Debug\net5.0\MultiplyBiggestWithSmallest.10.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\bin\Debug\net5.0\MultiplyBiggestWithSmallest.10.dll
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\bin\Debug\net5.0\ref\MultiplyBiggestWithSmallest.10.dll
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\bin\Debug\net5.0\MultiplyBiggestWithSmallest.10.pdb
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.dll
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\ref\MultiplyBiggestWithSmallest.10.dll
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.pdb
+C:\Users\TOSHIBA\Desktop\C# Business\List Assessment\MultiplyBiggestWithSmallest.10\obj\Debug\net5.0\MultiplyBiggestWithSmallest.10.genruntimeconfig.cache

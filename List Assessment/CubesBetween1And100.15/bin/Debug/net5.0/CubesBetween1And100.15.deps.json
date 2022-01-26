@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CubesBetween1And100.15/1.0.0": {
+        "runtime": {
+          "CubesBetween1And100.15.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CubesBetween1And100.15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\obj\Debug\net5.0\MultiplyArray.12.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\obj\Debug\net5.0\MultiplyArray.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\obj\Debug\net5.0\MultiplyArray.12.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\obj\Debug\net5.0\MultiplyArray.12.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\obj\Debug\net5.0\MultiplyArray.12.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\bin\Debug\net5.0\MultiplyArray.12.exe
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\bin\Debug\net5.0\MultiplyArray.12.deps.json
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\bin\Debug\net5.0\MultiplyArray.12.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\bin\Debug\net5.0\MultiplyArray.12.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\bin\Debug\net5.0\MultiplyArray.12.dll
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\bin\Debug\net5.0\ref\MultiplyArray.12.dll
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\bin\Debug\net5.0\MultiplyArray.12.pdb
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\obj\Debug\net5.0\MultiplyArray.12.dll
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\obj\Debug\net5.0\ref\MultiplyArray.12.dll
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\obj\Debug\net5.0\MultiplyArray.12.pdb
+C:\Users\TOSHIBA\Desktop\Ass\MultiplyArray.12\obj\Debug\net5.0\MultiplyArray.12.genruntimeconfig.cache

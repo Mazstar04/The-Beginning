@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\bin\Debug\net5.0\Loop1.exe
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\bin\Debug\net5.0\Loop1.deps.json
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\bin\Debug\net5.0\Loop1.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\bin\Debug\net5.0\Loop1.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\bin\Debug\net5.0\Loop1.dll
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\bin\Debug\net5.0\ref\Loop1.dll
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\bin\Debug\net5.0\Loop1.pdb
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\obj\Debug\net5.0\Loop1.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\obj\Debug\net5.0\Loop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\obj\Debug\net5.0\Loop1.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\obj\Debug\net5.0\Loop1.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\obj\Debug\net5.0\Loop1.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\obj\Debug\net5.0\Loop1.dll
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\obj\Debug\net5.0\ref\Loop1.dll
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\obj\Debug\net5.0\Loop1.pdb
+C:\Users\TOSHIBA\Desktop\Ass2\Loop1\obj\Debug\net5.0\Loop1.genruntimeconfig.cache

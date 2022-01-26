@@ -1,0 +1,39 @@
+﻿@model List<Category>
+@{
+    ViewData["Title"] = "Category";
+}
+
+<div class="card">
+    <div class="card-header">
+        <a asp-controller="Category" asp-action="Create">Add Category</a>
+    </div>
+</div>
+<table class="table  table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Created At </th>
+            <th>Details </th>
+            <th>Update Category</th>
+            <th> Delete Category</th>
+
+        </tr>
+    </thead>
+    
+    <tbody>
+        @foreach (Category category in Model)
+        {
+        <tr>
+            <td>@category.Id</td>
+            <td>@category.Name</td>
+            <td>@category.CreatedAt</td>
+            <td> <a asp-action="Find" asp-route-id="@category.Id">Details </a></td>
+            <td> <a asp-action="Update" asp-route-id="@category.Id">Update </a></td>
+            <td><a asp-action="Delete" asp-route-id="@category.Id">Delete </a> </td>
+            @**@
+        </tr>
+        }
+        
+    </tbody>
+</table>

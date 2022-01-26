@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\bin\Debug\net5.0\MultipleOf3And7.14.exe
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\bin\Debug\net5.0\MultipleOf3And7.14.deps.json
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\bin\Debug\net5.0\MultipleOf3And7.14.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\bin\Debug\net5.0\MultipleOf3And7.14.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\bin\Debug\net5.0\MultipleOf3And7.14.dll
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\bin\Debug\net5.0\ref\MultipleOf3And7.14.dll
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\bin\Debug\net5.0\MultipleOf3And7.14.pdb
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\obj\Debug\net5.0\MultipleOf3And7.14.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\obj\Debug\net5.0\MultipleOf3And7.14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\obj\Debug\net5.0\MultipleOf3And7.14.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\obj\Debug\net5.0\MultipleOf3And7.14.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\obj\Debug\net5.0\MultipleOf3And7.14.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\obj\Debug\net5.0\MultipleOf3And7.14.dll
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\obj\Debug\net5.0\ref\MultipleOf3And7.14.dll
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\obj\Debug\net5.0\MultipleOf3And7.14.pdb
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOf3And7.14\obj\Debug\net5.0\MultipleOf3And7.14.genruntimeconfig.cache

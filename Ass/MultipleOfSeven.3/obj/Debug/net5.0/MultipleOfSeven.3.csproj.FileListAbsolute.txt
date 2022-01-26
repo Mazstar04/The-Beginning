@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\bin\Debug\net5.0\MultipleOfSeven.3.exe
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\bin\Debug\net5.0\MultipleOfSeven.3.deps.json
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\bin\Debug\net5.0\MultipleOfSeven.3.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\bin\Debug\net5.0\MultipleOfSeven.3.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\bin\Debug\net5.0\MultipleOfSeven.3.dll
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\bin\Debug\net5.0\ref\MultipleOfSeven.3.dll
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\bin\Debug\net5.0\MultipleOfSeven.3.pdb
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\obj\Debug\net5.0\MultipleOfSeven.3.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\obj\Debug\net5.0\MultipleOfSeven.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\obj\Debug\net5.0\MultipleOfSeven.3.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\obj\Debug\net5.0\MultipleOfSeven.3.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\obj\Debug\net5.0\MultipleOfSeven.3.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\obj\Debug\net5.0\MultipleOfSeven.3.dll
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\obj\Debug\net5.0\ref\MultipleOfSeven.3.dll
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\obj\Debug\net5.0\MultipleOfSeven.3.pdb
+C:\Users\TOSHIBA\Desktop\Ass\MultipleOfSeven.3\obj\Debug\net5.0\MultipleOfSeven.3.genruntimeconfig.cache

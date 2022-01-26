@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\bin\Debug\net5.0\LongestWord.13.exe
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\bin\Debug\net5.0\LongestWord.13.deps.json
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\bin\Debug\net5.0\LongestWord.13.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\bin\Debug\net5.0\LongestWord.13.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\bin\Debug\net5.0\LongestWord.13.dll
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\bin\Debug\net5.0\ref\LongestWord.13.dll
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\bin\Debug\net5.0\LongestWord.13.pdb
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\obj\Debug\net5.0\LongestWord.13.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\obj\Debug\net5.0\LongestWord.13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\obj\Debug\net5.0\LongestWord.13.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\obj\Debug\net5.0\LongestWord.13.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\obj\Debug\net5.0\LongestWord.13.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\obj\Debug\net5.0\LongestWord.13.dll
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\obj\Debug\net5.0\ref\LongestWord.13.dll
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\obj\Debug\net5.0\LongestWord.13.pdb
+C:\Users\TOSHIBA\Desktop\Ass\LongestWord.13\obj\Debug\net5.0\LongestWord.13.genruntimeconfig.cache

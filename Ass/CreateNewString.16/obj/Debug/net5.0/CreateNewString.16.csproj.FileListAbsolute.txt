@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\bin\Debug\net5.0\CreateNewString.16.exe
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\bin\Debug\net5.0\CreateNewString.16.deps.json
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\bin\Debug\net5.0\CreateNewString.16.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\bin\Debug\net5.0\CreateNewString.16.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\bin\Debug\net5.0\CreateNewString.16.dll
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\bin\Debug\net5.0\ref\CreateNewString.16.dll
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\bin\Debug\net5.0\CreateNewString.16.pdb
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\obj\Debug\net5.0\CreateNewString.16.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\obj\Debug\net5.0\CreateNewString.16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\obj\Debug\net5.0\CreateNewString.16.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\obj\Debug\net5.0\CreateNewString.16.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\obj\Debug\net5.0\CreateNewString.16.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\obj\Debug\net5.0\CreateNewString.16.dll
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\obj\Debug\net5.0\ref\CreateNewString.16.dll
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\obj\Debug\net5.0\CreateNewString.16.pdb
+C:\Users\TOSHIBA\Desktop\Ass\CreateNewString.16\obj\Debug\net5.0\CreateNewString.16.genruntimeconfig.cache

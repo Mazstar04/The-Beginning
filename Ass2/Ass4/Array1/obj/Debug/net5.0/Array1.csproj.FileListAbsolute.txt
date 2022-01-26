@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\bin\Debug\net5.0\Array1.exe
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\bin\Debug\net5.0\Array1.deps.json
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\bin\Debug\net5.0\Array1.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\bin\Debug\net5.0\Array1.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\bin\Debug\net5.0\Array1.dll
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\bin\Debug\net5.0\ref\Array1.dll
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\bin\Debug\net5.0\Array1.pdb
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\obj\Debug\net5.0\Array1.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\obj\Debug\net5.0\Array1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\obj\Debug\net5.0\Array1.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\obj\Debug\net5.0\Array1.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\obj\Debug\net5.0\Array1.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\obj\Debug\net5.0\Array1.dll
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\obj\Debug\net5.0\ref\Array1.dll
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\obj\Debug\net5.0\Array1.pdb
+C:\Users\TOSHIBA\Desktop\Ass4\Array1\obj\Debug\net5.0\Array1.genruntimeconfig.cache

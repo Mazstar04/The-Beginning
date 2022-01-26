@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Circular\obj\Debug\net5.0\Circular.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Circular\obj\Debug\net5.0\Circular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Circular\obj\Debug\net5.0\Circular.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Circular\obj\Debug\net5.0\Circular.AssemblyInfo.cs
+C:\Users\HP\Desktop\Circular\obj\Debug\net5.0\Circular.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Circular\bin\Debug\net5.0\Circular.exe
+C:\Users\HP\Desktop\Circular\bin\Debug\net5.0\Circular.deps.json
+C:\Users\HP\Desktop\Circular\bin\Debug\net5.0\Circular.runtimeconfig.json
+C:\Users\HP\Desktop\Circular\bin\Debug\net5.0\Circular.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Circular\bin\Debug\net5.0\Circular.dll
+C:\Users\HP\Desktop\Circular\bin\Debug\net5.0\ref\Circular.dll
+C:\Users\HP\Desktop\Circular\bin\Debug\net5.0\Circular.pdb
+C:\Users\HP\Desktop\Circular\obj\Debug\net5.0\Circular.dll
+C:\Users\HP\Desktop\Circular\obj\Debug\net5.0\ref\Circular.dll
+C:\Users\HP\Desktop\Circular\obj\Debug\net5.0\Circular.pdb
+C:\Users\HP\Desktop\Circular\obj\Debug\net5.0\Circular.genruntimeconfig.cache

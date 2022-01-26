@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SumOfArray.17/1.0.0": {
+        "runtime": {
+          "SumOfArray.17.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumOfArray.17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

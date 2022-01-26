@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\bin\Debug\net5.0\IndexOfSmallestNumber.18.exe
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\bin\Debug\net5.0\IndexOfSmallestNumber.18.deps.json
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\bin\Debug\net5.0\IndexOfSmallestNumber.18.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\bin\Debug\net5.0\IndexOfSmallestNumber.18.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\bin\Debug\net5.0\IndexOfSmallestNumber.18.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\bin\Debug\net5.0\ref\IndexOfSmallestNumber.18.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\bin\Debug\net5.0\IndexOfSmallestNumber.18.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\obj\Debug\net5.0\IndexOfSmallestNumber.18.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\obj\Debug\net5.0\IndexOfSmallestNumber.18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\obj\Debug\net5.0\IndexOfSmallestNumber.18.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\obj\Debug\net5.0\IndexOfSmallestNumber.18.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\obj\Debug\net5.0\IndexOfSmallestNumber.18.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\obj\Debug\net5.0\IndexOfSmallestNumber.18.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\obj\Debug\net5.0\ref\IndexOfSmallestNumber.18.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\obj\Debug\net5.0\IndexOfSmallestNumber.18.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\IndexOfSmallestNumber.18\obj\Debug\net5.0\IndexOfSmallestNumber.18.genruntimeconfig.cache

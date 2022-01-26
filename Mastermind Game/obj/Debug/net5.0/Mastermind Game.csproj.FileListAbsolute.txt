@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Mastermind Game\bin\Debug\net5.0\Mastermind Game.exe
+C:\Users\TOSHIBA\Desktop\Mastermind Game\bin\Debug\net5.0\Mastermind Game.deps.json
+C:\Users\TOSHIBA\Desktop\Mastermind Game\bin\Debug\net5.0\Mastermind Game.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Mastermind Game\bin\Debug\net5.0\Mastermind Game.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Mastermind Game\bin\Debug\net5.0\Mastermind Game.dll
+C:\Users\TOSHIBA\Desktop\Mastermind Game\bin\Debug\net5.0\ref\Mastermind Game.dll
+C:\Users\TOSHIBA\Desktop\Mastermind Game\bin\Debug\net5.0\Mastermind Game.pdb
+C:\Users\TOSHIBA\Desktop\Mastermind Game\obj\Debug\net5.0\Mastermind Game.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Mastermind Game\obj\Debug\net5.0\Mastermind Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Mastermind Game\obj\Debug\net5.0\Mastermind Game.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Mastermind Game\obj\Debug\net5.0\Mastermind Game.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Mastermind Game\obj\Debug\net5.0\Mastermind Game.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Mastermind Game\obj\Debug\net5.0\Mastermind Game.dll
+C:\Users\TOSHIBA\Desktop\Mastermind Game\obj\Debug\net5.0\ref\Mastermind Game.dll
+C:\Users\TOSHIBA\Desktop\Mastermind Game\obj\Debug\net5.0\Mastermind Game.pdb
+C:\Users\TOSHIBA\Desktop\Mastermind Game\obj\Debug\net5.0\Mastermind Game.genruntimeconfig.cache

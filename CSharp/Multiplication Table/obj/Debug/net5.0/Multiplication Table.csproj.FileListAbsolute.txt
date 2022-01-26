@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\bin\Debug\net5.0\Multiplication Table.exe
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\bin\Debug\net5.0\Multiplication Table.deps.json
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\bin\Debug\net5.0\Multiplication Table.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\bin\Debug\net5.0\Multiplication Table.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\bin\Debug\net5.0\Multiplication Table.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\bin\Debug\net5.0\ref\Multiplication Table.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\bin\Debug\net5.0\Multiplication Table.pdb
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\obj\Debug\net5.0\Multiplication Table.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\obj\Debug\net5.0\Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\obj\Debug\net5.0\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\obj\Debug\net5.0\Multiplication Table.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\obj\Debug\net5.0\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\obj\Debug\net5.0\Multiplication Table.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\obj\Debug\net5.0\ref\Multiplication Table.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\obj\Debug\net5.0\Multiplication Table.pdb
+C:\Users\TOSHIBA\Desktop\CSharp\Multiplication Table\obj\Debug\net5.0\Multiplication Table.genruntimeconfig.cache

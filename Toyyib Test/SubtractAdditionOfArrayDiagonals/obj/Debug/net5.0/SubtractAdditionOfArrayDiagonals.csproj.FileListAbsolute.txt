@@ -1,0 +1,32 @@
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.AssemblyInfo.cs
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\bin\Debug\net5.0\SubtractAdditionOfArrayDiagonals.exe
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\bin\Debug\net5.0\SubtractAdditionOfArrayDiagonals.deps.json
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\bin\Debug\net5.0\SubtractAdditionOfArrayDiagonals.runtimeconfig.json
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\bin\Debug\net5.0\SubtractAdditionOfArrayDiagonals.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\bin\Debug\net5.0\SubtractAdditionOfArrayDiagonals.dll
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\bin\Debug\net5.0\ref\SubtractAdditionOfArrayDiagonals.dll
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\bin\Debug\net5.0\SubtractAdditionOfArrayDiagonals.pdb
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.dll
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\ref\SubtractAdditionOfArrayDiagonals.dll
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.pdb
+C:\Users\HP\Desktop\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.genruntimeconfig.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\bin\Debug\net5.0\SubtractAdditionOfArrayDiagonals.exe
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\bin\Debug\net5.0\SubtractAdditionOfArrayDiagonals.deps.json
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\bin\Debug\net5.0\SubtractAdditionOfArrayDiagonals.runtimeconfig.json
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\bin\Debug\net5.0\SubtractAdditionOfArrayDiagonals.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\bin\Debug\net5.0\SubtractAdditionOfArrayDiagonals.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\bin\Debug\net5.0\ref\SubtractAdditionOfArrayDiagonals.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\bin\Debug\net5.0\SubtractAdditionOfArrayDiagonals.pdb
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.AssemblyInfo.cs
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\ref\SubtractAdditionOfArrayDiagonals.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.pdb
+C:\Users\HP\Desktop\Maz's\C# Business\Toyyib Test\SubtractAdditionOfArrayDiagonals\obj\Debug\net5.0\SubtractAdditionOfArrayDiagonals.genruntimeconfig.cache

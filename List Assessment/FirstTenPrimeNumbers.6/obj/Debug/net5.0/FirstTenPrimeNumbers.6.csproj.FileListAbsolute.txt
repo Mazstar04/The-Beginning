@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\bin\Debug\net5.0\FirstTenPrimeNumbers.6.exe
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\bin\Debug\net5.0\FirstTenPrimeNumbers.6.deps.json
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\bin\Debug\net5.0\FirstTenPrimeNumbers.6.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\bin\Debug\net5.0\FirstTenPrimeNumbers.6.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\bin\Debug\net5.0\FirstTenPrimeNumbers.6.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\bin\Debug\net5.0\ref\FirstTenPrimeNumbers.6.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\bin\Debug\net5.0\FirstTenPrimeNumbers.6.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\obj\Debug\net5.0\FirstTenPrimeNumbers.6.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\obj\Debug\net5.0\FirstTenPrimeNumbers.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\obj\Debug\net5.0\FirstTenPrimeNumbers.6.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\obj\Debug\net5.0\FirstTenPrimeNumbers.6.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\obj\Debug\net5.0\FirstTenPrimeNumbers.6.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\obj\Debug\net5.0\FirstTenPrimeNumbers.6.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\obj\Debug\net5.0\ref\FirstTenPrimeNumbers.6.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\obj\Debug\net5.0\FirstTenPrimeNumbers.6.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\FirstTenPrimeNumbers.6\obj\Debug\net5.0\FirstTenPrimeNumbers.6.genruntimeconfig.cache

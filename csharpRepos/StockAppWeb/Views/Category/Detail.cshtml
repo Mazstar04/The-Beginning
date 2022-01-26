@@ -1,0 +1,14 @@
+@model Category
+
+@{ 
+    ViewData["Title"] = "Category Detail";
+}
+
+<ul>
+    <li>Id: @Model.Id</li>
+    <li>Name: @Model.Name</li>
+    <li>Created At: @Model.CreatedAt</li>
+</ul>
+<div>
+        <a class="btn btn-success" asp-controller="Category" asp-action="Index">Back to Category</a>
+</div> 

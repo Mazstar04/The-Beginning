@@ -1,0 +1,33 @@
+@model List<Stock>
+
+@{
+    ViewData["Title"] = "Stock";
+}
+<div class="card">
+    <div class="card-header">
+        <a class="btn btn-success" asp-controller="Stock" asp-action="Index">Back to Stock</a>
+    </div> 
+</div>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr style="color:green">
+            <th>Id</th>
+            <th>Brand</th>
+            <th>Name</th>
+            <th>CostPrice</th>
+            <th>SellingPrice</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Stock stock in Model)
+        {
+            <tr style="color:green">
+                <td>@stock.Id</td>
+                <td>@stock.Brand</td>
+                <td>@stock.Name</td>
+                <td>@stock.CostPrice</td>
+                <td>@stock.SellingPrice</td>
+            </tr>
+        }
+    </tbody>
+</table>

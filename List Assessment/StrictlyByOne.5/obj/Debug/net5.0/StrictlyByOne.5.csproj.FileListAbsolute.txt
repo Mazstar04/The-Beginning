@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\bin\Debug\net5.0\StrictlyByOne.5.exe
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\bin\Debug\net5.0\StrictlyByOne.5.deps.json
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\bin\Debug\net5.0\StrictlyByOne.5.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\bin\Debug\net5.0\StrictlyByOne.5.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\bin\Debug\net5.0\StrictlyByOne.5.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\bin\Debug\net5.0\ref\StrictlyByOne.5.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\bin\Debug\net5.0\StrictlyByOne.5.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\obj\Debug\net5.0\StrictlyByOne.5.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\obj\Debug\net5.0\StrictlyByOne.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\obj\Debug\net5.0\StrictlyByOne.5.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\obj\Debug\net5.0\StrictlyByOne.5.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\obj\Debug\net5.0\StrictlyByOne.5.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\obj\Debug\net5.0\StrictlyByOne.5.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\obj\Debug\net5.0\ref\StrictlyByOne.5.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\obj\Debug\net5.0\StrictlyByOne.5.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\StrictlyByOne.5\obj\Debug\net5.0\StrictlyByOne.5.genruntimeconfig.cache

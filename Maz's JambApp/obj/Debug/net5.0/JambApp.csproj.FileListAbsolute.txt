@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\JambApp\bin\Debug\net5.0\JambApp.exe
+C:\Users\TOSHIBA\Desktop\JambApp\bin\Debug\net5.0\JambApp.deps.json
+C:\Users\TOSHIBA\Desktop\JambApp\bin\Debug\net5.0\JambApp.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\JambApp\bin\Debug\net5.0\JambApp.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\JambApp\bin\Debug\net5.0\JambApp.dll
+C:\Users\TOSHIBA\Desktop\JambApp\bin\Debug\net5.0\ref\JambApp.dll
+C:\Users\TOSHIBA\Desktop\JambApp\bin\Debug\net5.0\JambApp.pdb
+C:\Users\TOSHIBA\Desktop\JambApp\obj\Debug\net5.0\JambApp.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\JambApp\obj\Debug\net5.0\JambApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\JambApp\obj\Debug\net5.0\JambApp.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\JambApp\obj\Debug\net5.0\JambApp.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\JambApp\obj\Debug\net5.0\JambApp.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\JambApp\obj\Debug\net5.0\JambApp.dll
+C:\Users\TOSHIBA\Desktop\JambApp\obj\Debug\net5.0\ref\JambApp.dll
+C:\Users\TOSHIBA\Desktop\JambApp\obj\Debug\net5.0\JambApp.pdb
+C:\Users\TOSHIBA\Desktop\JambApp\obj\Debug\net5.0\JambApp.genruntimeconfig.cache

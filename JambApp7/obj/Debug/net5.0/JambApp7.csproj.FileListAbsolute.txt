@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\JambApp7\bin\Debug\net5.0\JambApp7.exe
+C:\Users\HP\Desktop\JambApp7\bin\Debug\net5.0\JambApp7.deps.json
+C:\Users\HP\Desktop\JambApp7\bin\Debug\net5.0\JambApp7.runtimeconfig.json
+C:\Users\HP\Desktop\JambApp7\bin\Debug\net5.0\JambApp7.runtimeconfig.dev.json
+C:\Users\HP\Desktop\JambApp7\bin\Debug\net5.0\JambApp7.dll
+C:\Users\HP\Desktop\JambApp7\bin\Debug\net5.0\ref\JambApp7.dll
+C:\Users\HP\Desktop\JambApp7\bin\Debug\net5.0\JambApp7.pdb
+C:\Users\HP\Desktop\JambApp7\obj\Debug\net5.0\JambApp7.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\JambApp7\obj\Debug\net5.0\JambApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\JambApp7\obj\Debug\net5.0\JambApp7.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\JambApp7\obj\Debug\net5.0\JambApp7.AssemblyInfo.cs
+C:\Users\HP\Desktop\JambApp7\obj\Debug\net5.0\JambApp7.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\JambApp7\obj\Debug\net5.0\JambApp7.dll
+C:\Users\HP\Desktop\JambApp7\obj\Debug\net5.0\ref\JambApp7.dll
+C:\Users\HP\Desktop\JambApp7\obj\Debug\net5.0\JambApp7.pdb
+C:\Users\HP\Desktop\JambApp7\obj\Debug\net5.0\JambApp7.genruntimeconfig.cache

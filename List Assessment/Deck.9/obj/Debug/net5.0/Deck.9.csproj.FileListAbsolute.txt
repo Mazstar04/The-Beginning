@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\bin\Debug\net5.0\Deck.9.exe
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\bin\Debug\net5.0\Deck.9.deps.json
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\bin\Debug\net5.0\Deck.9.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\bin\Debug\net5.0\Deck.9.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\bin\Debug\net5.0\Deck.9.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\bin\Debug\net5.0\ref\Deck.9.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\bin\Debug\net5.0\Deck.9.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\obj\Debug\net5.0\Deck.9.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\obj\Debug\net5.0\Deck.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\obj\Debug\net5.0\Deck.9.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\obj\Debug\net5.0\Deck.9.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\obj\Debug\net5.0\Deck.9.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\obj\Debug\net5.0\Deck.9.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\obj\Debug\net5.0\ref\Deck.9.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\obj\Debug\net5.0\Deck.9.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\Deck.9\obj\Debug\net5.0\Deck.9.genruntimeconfig.cache

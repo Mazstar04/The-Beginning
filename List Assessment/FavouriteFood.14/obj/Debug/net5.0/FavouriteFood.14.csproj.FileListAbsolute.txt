@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\bin\Debug\net5.0\FavouriteFood.14.exe
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\bin\Debug\net5.0\FavouriteFood.14.deps.json
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\bin\Debug\net5.0\FavouriteFood.14.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\bin\Debug\net5.0\FavouriteFood.14.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\bin\Debug\net5.0\FavouriteFood.14.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\bin\Debug\net5.0\ref\FavouriteFood.14.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\bin\Debug\net5.0\FavouriteFood.14.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\obj\Debug\net5.0\FavouriteFood.14.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\obj\Debug\net5.0\FavouriteFood.14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\obj\Debug\net5.0\FavouriteFood.14.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\obj\Debug\net5.0\FavouriteFood.14.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\obj\Debug\net5.0\FavouriteFood.14.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\obj\Debug\net5.0\FavouriteFood.14.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\obj\Debug\net5.0\ref\FavouriteFood.14.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\obj\Debug\net5.0\FavouriteFood.14.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\FavouriteFood.14\obj\Debug\net5.0\FavouriteFood.14.genruntimeconfig.cache

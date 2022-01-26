@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\bin\Debug\net5.0\StrinngMethods.exe
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\bin\Debug\net5.0\StrinngMethods.deps.json
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\bin\Debug\net5.0\StrinngMethods.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\bin\Debug\net5.0\StrinngMethods.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\bin\Debug\net5.0\StrinngMethods.dll
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\bin\Debug\net5.0\ref\StrinngMethods.dll
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\bin\Debug\net5.0\StrinngMethods.pdb
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\obj\Debug\net5.0\StrinngMethods.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\obj\Debug\net5.0\StrinngMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\obj\Debug\net5.0\StrinngMethods.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\obj\Debug\net5.0\StrinngMethods.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\obj\Debug\net5.0\StrinngMethods.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\obj\Debug\net5.0\StrinngMethods.dll
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\obj\Debug\net5.0\ref\StrinngMethods.dll
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\obj\Debug\net5.0\StrinngMethods.pdb
+C:\Users\TOSHIBA\Desktop\CSharp\StrinngMethods\obj\Debug\net5.0\StrinngMethods.genruntimeconfig.cache

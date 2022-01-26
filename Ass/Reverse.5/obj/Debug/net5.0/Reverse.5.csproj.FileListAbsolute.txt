@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\bin\Debug\net5.0\Reverse.5.exe
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\bin\Debug\net5.0\Reverse.5.deps.json
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\bin\Debug\net5.0\Reverse.5.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\bin\Debug\net5.0\Reverse.5.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\bin\Debug\net5.0\Reverse.5.dll
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\bin\Debug\net5.0\ref\Reverse.5.dll
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\bin\Debug\net5.0\Reverse.5.pdb
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\obj\Debug\net5.0\Reverse.5.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\obj\Debug\net5.0\Reverse.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\obj\Debug\net5.0\Reverse.5.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\obj\Debug\net5.0\Reverse.5.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\obj\Debug\net5.0\Reverse.5.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\obj\Debug\net5.0\Reverse.5.dll
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\obj\Debug\net5.0\ref\Reverse.5.dll
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\obj\Debug\net5.0\Reverse.5.pdb
+C:\Users\TOSHIBA\Desktop\Ass\Reverse.5\obj\Debug\net5.0\Reverse.5.genruntimeconfig.cache

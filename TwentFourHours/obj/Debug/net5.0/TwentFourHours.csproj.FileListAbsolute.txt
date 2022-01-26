@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\TwentFourHours\bin\Debug\net5.0\TwentFourHours.exe
+C:\Users\TOSHIBA\Desktop\TwentFourHours\bin\Debug\net5.0\TwentFourHours.deps.json
+C:\Users\TOSHIBA\Desktop\TwentFourHours\bin\Debug\net5.0\TwentFourHours.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\TwentFourHours\bin\Debug\net5.0\TwentFourHours.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\TwentFourHours\bin\Debug\net5.0\TwentFourHours.dll
+C:\Users\TOSHIBA\Desktop\TwentFourHours\bin\Debug\net5.0\ref\TwentFourHours.dll
+C:\Users\TOSHIBA\Desktop\TwentFourHours\bin\Debug\net5.0\TwentFourHours.pdb
+C:\Users\TOSHIBA\Desktop\TwentFourHours\obj\Debug\net5.0\TwentFourHours.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\TwentFourHours\obj\Debug\net5.0\TwentFourHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\TwentFourHours\obj\Debug\net5.0\TwentFourHours.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\TwentFourHours\obj\Debug\net5.0\TwentFourHours.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\TwentFourHours\obj\Debug\net5.0\TwentFourHours.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\TwentFourHours\obj\Debug\net5.0\TwentFourHours.dll
+C:\Users\TOSHIBA\Desktop\TwentFourHours\obj\Debug\net5.0\ref\TwentFourHours.dll
+C:\Users\TOSHIBA\Desktop\TwentFourHours\obj\Debug\net5.0\TwentFourHours.pdb
+C:\Users\TOSHIBA\Desktop\TwentFourHours\obj\Debug\net5.0\TwentFourHours.genruntimeconfig.cache

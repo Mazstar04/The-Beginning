@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\bin\Debug\net5.0\FirstToLast.10.exe
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\bin\Debug\net5.0\FirstToLast.10.deps.json
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\bin\Debug\net5.0\FirstToLast.10.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\bin\Debug\net5.0\FirstToLast.10.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\bin\Debug\net5.0\FirstToLast.10.dll
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\bin\Debug\net5.0\ref\FirstToLast.10.dll
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\bin\Debug\net5.0\FirstToLast.10.pdb
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\obj\Debug\net5.0\FirstToLast.10.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\obj\Debug\net5.0\FirstToLast.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\obj\Debug\net5.0\FirstToLast.10.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\obj\Debug\net5.0\FirstToLast.10.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\obj\Debug\net5.0\FirstToLast.10.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\obj\Debug\net5.0\FirstToLast.10.dll
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\obj\Debug\net5.0\ref\FirstToLast.10.dll
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\obj\Debug\net5.0\FirstToLast.10.pdb
+C:\Users\TOSHIBA\Desktop\Ass\FirstToLast.10\obj\Debug\net5.0\FirstToLast.10.genruntimeconfig.cache

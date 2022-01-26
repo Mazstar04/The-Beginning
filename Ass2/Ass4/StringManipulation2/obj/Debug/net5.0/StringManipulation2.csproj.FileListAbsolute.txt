@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\bin\Debug\net5.0\StringManipulation2.exe
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\bin\Debug\net5.0\StringManipulation2.deps.json
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\bin\Debug\net5.0\StringManipulation2.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\bin\Debug\net5.0\StringManipulation2.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\bin\Debug\net5.0\StringManipulation2.dll
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\bin\Debug\net5.0\ref\StringManipulation2.dll
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\bin\Debug\net5.0\StringManipulation2.pdb
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\obj\Debug\net5.0\StringManipulation2.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\obj\Debug\net5.0\StringManipulation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\obj\Debug\net5.0\StringManipulation2.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\obj\Debug\net5.0\StringManipulation2.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\obj\Debug\net5.0\StringManipulation2.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\obj\Debug\net5.0\StringManipulation2.dll
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\obj\Debug\net5.0\ref\StringManipulation2.dll
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\obj\Debug\net5.0\StringManipulation2.pdb
+C:\Users\TOSHIBA\Desktop\Ass4\StringManipulation2\obj\Debug\net5.0\StringManipulation2.genruntimeconfig.cache

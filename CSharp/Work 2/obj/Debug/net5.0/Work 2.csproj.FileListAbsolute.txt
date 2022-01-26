@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\bin\Debug\net5.0\Work 2.exe
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\bin\Debug\net5.0\Work 2.deps.json
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\bin\Debug\net5.0\Work 2.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\bin\Debug\net5.0\Work 2.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\bin\Debug\net5.0\Work 2.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\bin\Debug\net5.0\ref\Work 2.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\bin\Debug\net5.0\Work 2.pdb
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\obj\Debug\net5.0\Work 2.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\obj\Debug\net5.0\Work 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\obj\Debug\net5.0\Work 2.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\obj\Debug\net5.0\Work 2.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\obj\Debug\net5.0\Work 2.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\obj\Debug\net5.0\Work 2.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\obj\Debug\net5.0\ref\Work 2.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\obj\Debug\net5.0\Work 2.pdb
+C:\Users\TOSHIBA\Desktop\CSharp\Work 2\obj\Debug\net5.0\Work 2.genruntimeconfig.cache

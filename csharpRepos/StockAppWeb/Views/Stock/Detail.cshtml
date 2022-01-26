@@ -1,0 +1,20 @@
+@model Stock
+
+@{ 
+    ViewData["Title"] = "Stock Detail";
+}
+
+<ul>
+    <li>Id: @Model.Id</li>
+    <li>Name: @Model.Name</li>
+    <li>Created At: @Model.CreatedAt</li>
+    <li>Cost Price: @Model.CostPrice</li>
+    <li>Selling Price: @Model.SellingPrice</li>
+    <li>SKU: @Model.SKU</li>
+    <li>Quantity: @Model.Quantity</li>
+    <li>Variation: @Model.Variation</li>
+    <li>Category Id: @Model.Category_Id</li>
+</ul>
+<div>
+        <a class="btn btn-success" asp-controller="Stock" asp-action="Index">Back to Stock</a>
+</div> 

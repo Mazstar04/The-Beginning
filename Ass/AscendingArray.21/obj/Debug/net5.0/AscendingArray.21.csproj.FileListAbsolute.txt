@@ -1,0 +1,32 @@
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\bin\Debug\net5.0\AscendingArray.21.exe
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\bin\Debug\net5.0\AscendingArray.21.deps.json
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\bin\Debug\net5.0\AscendingArray.21.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\bin\Debug\net5.0\AscendingArray.21.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\bin\Debug\net5.0\AscendingArray.21.dll
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\bin\Debug\net5.0\ref\AscendingArray.21.dll
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\bin\Debug\net5.0\AscendingArray.21.pdb
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.dll
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\obj\Debug\net5.0\ref\AscendingArray.21.dll
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.pdb
+C:\Users\TOSHIBA\Desktop\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.genruntimeconfig.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\bin\Debug\net5.0\AscendingArray.21.exe
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\bin\Debug\net5.0\AscendingArray.21.deps.json
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\bin\Debug\net5.0\AscendingArray.21.runtimeconfig.json
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\bin\Debug\net5.0\AscendingArray.21.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\bin\Debug\net5.0\AscendingArray.21.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\bin\Debug\net5.0\ref\AscendingArray.21.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\bin\Debug\net5.0\AscendingArray.21.pdb
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.AssemblyInfo.cs
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\obj\Debug\net5.0\ref\AscendingArray.21.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.pdb
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\AscendingArray.21\obj\Debug\net5.0\AscendingArray.21.genruntimeconfig.cache

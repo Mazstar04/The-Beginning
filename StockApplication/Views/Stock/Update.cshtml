@@ -1,0 +1,15 @@
+﻿@model Stock
+
+<form method="post">
+    <input type="hidden" name="id" value="@Model.Id" /><br /><br />
+    <label> Brand:  </label> <input name="brand" value="@Model.Brand" /><br /><br />
+    <label> Name:  </label> <input name="name" value="@Model.Name" /><br /><br />
+    <label> Cost Price:  </label> <input name="costprice" value="@Model.CostPrice" /><br /><br />
+    <label> Selling Price:  </label> <input name="sellingprice" value="@Model.SellingPrice" /><br /><br />
+    <label> SKU:  </label> <input name="sku" value="@Model.SKU" /><br /><br />
+    <label> Quantity:  </label> <input name="quantity" value="@Model.Quantity" /><br /><br />
+    <label> Variation:  </label> <input name="variation" value="@Model.Variation" /><br /><br />
+    <label> Category-Id of Stock:  </label> <input name="catId" value="@Model.Category_Id" /><br /><br />
+    <button type="submit"> Update</button>
+</form>
+

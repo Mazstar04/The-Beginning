@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\obj\Debug\net5.0\SimpleProgram.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\obj\Debug\net5.0\SimpleProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\obj\Debug\net5.0\SimpleProgram.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\obj\Debug\net5.0\SimpleProgram.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\obj\Debug\net5.0\SimpleProgram.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\bin\Debug\net5.0\SimpleProgram.exe
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\bin\Debug\net5.0\SimpleProgram.deps.json
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\bin\Debug\net5.0\SimpleProgram.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\bin\Debug\net5.0\SimpleProgram.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\bin\Debug\net5.0\SimpleProgram.dll
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\bin\Debug\net5.0\ref\SimpleProgram.dll
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\bin\Debug\net5.0\SimpleProgram.pdb
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\obj\Debug\net5.0\SimpleProgram.dll
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\obj\Debug\net5.0\ref\SimpleProgram.dll
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\obj\Debug\net5.0\SimpleProgram.pdb
+C:\Users\TOSHIBA\Desktop\CSharp\SimpleProgram\obj\Debug\net5.0\SimpleProgram.genruntimeconfig.cache

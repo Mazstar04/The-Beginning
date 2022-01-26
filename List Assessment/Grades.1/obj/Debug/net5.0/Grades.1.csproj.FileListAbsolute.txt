@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\bin\Debug\net5.0\Grades.1.exe
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\bin\Debug\net5.0\Grades.1.deps.json
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\bin\Debug\net5.0\Grades.1.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\bin\Debug\net5.0\Grades.1.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\bin\Debug\net5.0\Grades.1.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\bin\Debug\net5.0\ref\Grades.1.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\bin\Debug\net5.0\Grades.1.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\obj\Debug\net5.0\Grades.1.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\obj\Debug\net5.0\Grades.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\obj\Debug\net5.0\Grades.1.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\obj\Debug\net5.0\Grades.1.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\obj\Debug\net5.0\Grades.1.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\obj\Debug\net5.0\Grades.1.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\obj\Debug\net5.0\ref\Grades.1.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\obj\Debug\net5.0\Grades.1.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\Grades.1\obj\Debug\net5.0\Grades.1.genruntimeconfig.cache

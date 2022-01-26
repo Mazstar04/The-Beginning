@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\bin\Debug\net5.0\Method1.exe
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\bin\Debug\net5.0\Method1.deps.json
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\bin\Debug\net5.0\Method1.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\bin\Debug\net5.0\Method1.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\bin\Debug\net5.0\Method1.dll
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\bin\Debug\net5.0\ref\Method1.dll
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\bin\Debug\net5.0\Method1.pdb
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\obj\Debug\net5.0\Method1.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\obj\Debug\net5.0\Method1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\obj\Debug\net5.0\Method1.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\obj\Debug\net5.0\Method1.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\obj\Debug\net5.0\Method1.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\obj\Debug\net5.0\Method1.dll
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\obj\Debug\net5.0\ref\Method1.dll
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\obj\Debug\net5.0\Method1.pdb
+C:\Users\TOSHIBA\Desktop\Ass2\Ass3\IfAndElse1\obj\Debug\net5.0\Method1.genruntimeconfig.cache

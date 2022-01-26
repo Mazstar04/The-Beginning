@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\bin\Debug\net5.0\SwapFirstAndLast.11.exe
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\bin\Debug\net5.0\SwapFirstAndLast.11.deps.json
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\bin\Debug\net5.0\SwapFirstAndLast.11.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\bin\Debug\net5.0\SwapFirstAndLast.11.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\bin\Debug\net5.0\SwapFirstAndLast.11.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\bin\Debug\net5.0\ref\SwapFirstAndLast.11.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\bin\Debug\net5.0\SwapFirstAndLast.11.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\obj\Debug\net5.0\SwapFirstAndLast.11.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\obj\Debug\net5.0\SwapFirstAndLast.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\obj\Debug\net5.0\SwapFirstAndLast.11.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\obj\Debug\net5.0\SwapFirstAndLast.11.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\obj\Debug\net5.0\SwapFirstAndLast.11.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\obj\Debug\net5.0\SwapFirstAndLast.11.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\obj\Debug\net5.0\ref\SwapFirstAndLast.11.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\obj\Debug\net5.0\SwapFirstAndLast.11.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\SwapFirstAndLast.11\obj\Debug\net5.0\SwapFirstAndLast.11.genruntimeconfig.cache

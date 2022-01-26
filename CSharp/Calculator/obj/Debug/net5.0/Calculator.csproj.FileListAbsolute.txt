@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\bin\Debug\net5.0\Calculator.exe
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\bin\Debug\net5.0\Calculator.deps.json
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\bin\Debug\net5.0\Calculator.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\bin\Debug\net5.0\Calculator.pdb
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\obj\Debug\net5.0\Calculator.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\obj\Debug\net5.0\Calculator.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\obj\Debug\net5.0\Calculator.pdb
+C:\Users\TOSHIBA\Desktop\CSharp\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache

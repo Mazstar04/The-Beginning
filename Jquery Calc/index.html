@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>My Calculator</title>
+    <link rel="stylesheet" href="assets/bootstrap/dist/css/bootstrap.min.css">
+</head>
+
+<body>
+
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <h1 class="display-4 text-center">Welcome to my test calculator page</h1>
+
+            <hr class="py-4">
+
+            <div class="text-center">
+                <h3 id="demo"></h3>
+
+                <button type="button" onclick="loadDoc()" class="btn btn-outline-dark">Display Content</button>
+    
+                <a href="jcalculator.html" class="btn btn-outline-danger">jQuery Calculator</a>
+
+                <button type="button" class="btn btn-success" id="show_content">Show Content</button>
+
+                <button type="button" id="hide_content" class="btn btn-warning">Hide content below</button>
+
+
+            </div>
+            
+
+        </div>
+    </div>
+
+    <div class="container contain">
+        <div class="row justify-content-center">
+            <div class="col-md-7">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="text-info">Perform you calcs</h4>
+                    </div>
+                    <div class="card-body">
+                        <form action="">
+                            <div class="form-row">
+
+                                <div class="form-group col-md-6">
+                                    <label for="number1">First Number</label>
+                                    <input type="text" name="number1" id="number1" class="form-control">
+                                </div>
+
+                                <div class="form-group col-md-6">
+                                    <label for="number2">Second Number</label>
+                                    <input type="text" name="number2" id="number2" class="form-control">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <input type="text" name="result" id="result" class="form-control" value= "0.00" readonly>
+                            </div>
+
+                            <div class="form-group">
+                                <button type="button" class="btn btn-primary" id="add">Add</button>
+                                <button type="button" class="btn btn-danger" id="subtract">Subtract</button>
+                                <button type="button" class="btn btn-success" id="multiply">Multiply</button>
+                                <button type="button" class="btn btn-secondary" id="divide">Divide</button>
+                                <button type="button" class="btn btn-warning" id="modulo">Modulo</button>
+                            </div>
+
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="assets/jquery/dist/jquery.min.js"></script>
+    <script src="assets/js/appjs.js"></script>
+    <script src="assets/js/appjquery.js"></script>
+</body>
+
+</html>

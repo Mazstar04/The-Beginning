@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\bin\Debug\net5.0\FirstAndLastEqual.18.exe
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\bin\Debug\net5.0\FirstAndLastEqual.18.deps.json
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\bin\Debug\net5.0\FirstAndLastEqual.18.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\bin\Debug\net5.0\FirstAndLastEqual.18.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\bin\Debug\net5.0\FirstAndLastEqual.18.dll
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\bin\Debug\net5.0\ref\FirstAndLastEqual.18.dll
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\bin\Debug\net5.0\FirstAndLastEqual.18.pdb
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\obj\Debug\net5.0\FirstAndLastEqual.18.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\obj\Debug\net5.0\FirstAndLastEqual.18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\obj\Debug\net5.0\FirstAndLastEqual.18.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\obj\Debug\net5.0\FirstAndLastEqual.18.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\obj\Debug\net5.0\FirstAndLastEqual.18.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\obj\Debug\net5.0\FirstAndLastEqual.18.dll
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\obj\Debug\net5.0\ref\FirstAndLastEqual.18.dll
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\obj\Debug\net5.0\FirstAndLastEqual.18.pdb
+C:\Users\TOSHIBA\Desktop\Ass\FirstAndLastEqual.18\obj\Debug\net5.0\FirstAndLastEqual.18.genruntimeconfig.cache

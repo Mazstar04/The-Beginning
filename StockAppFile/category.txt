@@ -1,0 +1,6 @@
+1	Beverages	5/20/2021 4:34:13 AM
+2	Plastics	5/20/2021 4:34:13 AM
+3	Deodourants	5/20/2021 4:34:13 AM
+4	Sausage	5/20/2021 4:34:13 AM
+5	Garri	5/20/2021 4:34:13 AM
+6	Detergent	5/20/2021 4:34:50 AM

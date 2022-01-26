@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\obj\Debug\net5.0\WhileLoop.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\obj\Debug\net5.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\obj\Debug\net5.0\WhileLoop.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\obj\Debug\net5.0\WhileLoop.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\obj\Debug\net5.0\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\bin\Debug\net5.0\WhileLoop.exe
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\bin\Debug\net5.0\WhileLoop.deps.json
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\bin\Debug\net5.0\WhileLoop.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\bin\Debug\net5.0\WhileLoop.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\bin\Debug\net5.0\WhileLoop.dll
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\bin\Debug\net5.0\ref\WhileLoop.dll
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\bin\Debug\net5.0\WhileLoop.pdb
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\obj\Debug\net5.0\WhileLoop.dll
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\obj\Debug\net5.0\ref\WhileLoop.dll
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\obj\Debug\net5.0\WhileLoop.pdb
+C:\Users\TOSHIBA\Desktop\CSharp\WhileLoop\obj\Debug\net5.0\WhileLoop.genruntimeconfig.cache

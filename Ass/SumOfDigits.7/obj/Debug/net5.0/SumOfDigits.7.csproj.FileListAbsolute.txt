@@ -1,0 +1,32 @@
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\bin\Debug\net5.0\SumOfDigits.7.exe
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\bin\Debug\net5.0\SumOfDigits.7.deps.json
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\bin\Debug\net5.0\SumOfDigits.7.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\bin\Debug\net5.0\SumOfDigits.7.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\bin\Debug\net5.0\SumOfDigits.7.dll
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\bin\Debug\net5.0\ref\SumOfDigits.7.dll
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\bin\Debug\net5.0\SumOfDigits.7.pdb
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.dll
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\obj\Debug\net5.0\ref\SumOfDigits.7.dll
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.pdb
+C:\Users\TOSHIBA\Desktop\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.genruntimeconfig.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\bin\Debug\net5.0\SumOfDigits.7.exe
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\bin\Debug\net5.0\SumOfDigits.7.deps.json
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\bin\Debug\net5.0\SumOfDigits.7.runtimeconfig.json
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\bin\Debug\net5.0\SumOfDigits.7.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\bin\Debug\net5.0\SumOfDigits.7.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\bin\Debug\net5.0\ref\SumOfDigits.7.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\bin\Debug\net5.0\SumOfDigits.7.pdb
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.AssemblyInfo.cs
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\obj\Debug\net5.0\ref\SumOfDigits.7.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.pdb
+C:\Users\HP\Desktop\Maz's\C# Business\Ass\SumOfDigits.7\obj\Debug\net5.0\SumOfDigits.7.genruntimeconfig.cache

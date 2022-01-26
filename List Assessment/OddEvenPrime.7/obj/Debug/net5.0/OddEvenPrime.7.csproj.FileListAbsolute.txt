@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\bin\Debug\net5.0\OddEvenPrime.7.exe
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\bin\Debug\net5.0\OddEvenPrime.7.deps.json
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\bin\Debug\net5.0\OddEvenPrime.7.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\bin\Debug\net5.0\OddEvenPrime.7.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\bin\Debug\net5.0\OddEvenPrime.7.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\bin\Debug\net5.0\ref\OddEvenPrime.7.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\bin\Debug\net5.0\OddEvenPrime.7.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\obj\Debug\net5.0\OddEvenPrime.7.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\obj\Debug\net5.0\OddEvenPrime.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\obj\Debug\net5.0\OddEvenPrime.7.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\obj\Debug\net5.0\OddEvenPrime.7.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\obj\Debug\net5.0\OddEvenPrime.7.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\obj\Debug\net5.0\OddEvenPrime.7.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\obj\Debug\net5.0\ref\OddEvenPrime.7.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\obj\Debug\net5.0\OddEvenPrime.7.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\OddEvenPrime.7\obj\Debug\net5.0\OddEvenPrime.7.genruntimeconfig.cache

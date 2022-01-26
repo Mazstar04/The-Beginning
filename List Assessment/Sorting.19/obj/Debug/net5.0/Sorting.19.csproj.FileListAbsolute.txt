@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\bin\Debug\net5.0\Sorting.19.exe
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\bin\Debug\net5.0\Sorting.19.deps.json
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\bin\Debug\net5.0\Sorting.19.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\bin\Debug\net5.0\Sorting.19.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\bin\Debug\net5.0\Sorting.19.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\bin\Debug\net5.0\ref\Sorting.19.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\bin\Debug\net5.0\Sorting.19.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\obj\Debug\net5.0\Sorting.19.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\obj\Debug\net5.0\Sorting.19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\obj\Debug\net5.0\Sorting.19.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\obj\Debug\net5.0\Sorting.19.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\obj\Debug\net5.0\Sorting.19.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\obj\Debug\net5.0\Sorting.19.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\obj\Debug\net5.0\ref\Sorting.19.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\obj\Debug\net5.0\Sorting.19.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\Sorting.19\obj\Debug\net5.0\Sorting.19.genruntimeconfig.cache

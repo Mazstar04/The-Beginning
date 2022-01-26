@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Toyyib\bin\Debug\net5.0\Toyyib.exe
+C:\Users\TOSHIBA\Desktop\Toyyib\bin\Debug\net5.0\Toyyib.deps.json
+C:\Users\TOSHIBA\Desktop\Toyyib\bin\Debug\net5.0\Toyyib.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Toyyib\bin\Debug\net5.0\Toyyib.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Toyyib\bin\Debug\net5.0\Toyyib.dll
+C:\Users\TOSHIBA\Desktop\Toyyib\bin\Debug\net5.0\ref\Toyyib.dll
+C:\Users\TOSHIBA\Desktop\Toyyib\bin\Debug\net5.0\Toyyib.pdb
+C:\Users\TOSHIBA\Desktop\Toyyib\obj\Debug\net5.0\Toyyib.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Toyyib\obj\Debug\net5.0\Toyyib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Toyyib\obj\Debug\net5.0\Toyyib.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Toyyib\obj\Debug\net5.0\Toyyib.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Toyyib\obj\Debug\net5.0\Toyyib.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Toyyib\obj\Debug\net5.0\Toyyib.dll
+C:\Users\TOSHIBA\Desktop\Toyyib\obj\Debug\net5.0\ref\Toyyib.dll
+C:\Users\TOSHIBA\Desktop\Toyyib\obj\Debug\net5.0\Toyyib.pdb
+C:\Users\TOSHIBA\Desktop\Toyyib\obj\Debug\net5.0\Toyyib.genruntimeconfig.cache

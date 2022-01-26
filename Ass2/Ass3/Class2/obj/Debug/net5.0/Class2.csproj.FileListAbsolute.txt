@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\bin\Debug\net5.0\Class2.exe
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\bin\Debug\net5.0\Class2.deps.json
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\bin\Debug\net5.0\Class2.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\bin\Debug\net5.0\Class2.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\bin\Debug\net5.0\Class2.dll
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\bin\Debug\net5.0\ref\Class2.dll
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\bin\Debug\net5.0\Class2.pdb
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\obj\Debug\net5.0\Class2.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\obj\Debug\net5.0\Class2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\obj\Debug\net5.0\Class2.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\obj\Debug\net5.0\Class2.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\obj\Debug\net5.0\Class2.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\obj\Debug\net5.0\Class2.dll
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\obj\Debug\net5.0\ref\Class2.dll
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\obj\Debug\net5.0\Class2.pdb
+C:\Users\TOSHIBA\Desktop\Ass3\Class2\obj\Debug\net5.0\Class2.genruntimeconfig.cache

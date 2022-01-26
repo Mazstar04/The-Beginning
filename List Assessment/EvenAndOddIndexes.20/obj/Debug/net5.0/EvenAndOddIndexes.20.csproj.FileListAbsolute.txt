@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\bin\Debug\net5.0\EvenAndOddIndexes.20.exe
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\bin\Debug\net5.0\EvenAndOddIndexes.20.deps.json
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\bin\Debug\net5.0\EvenAndOddIndexes.20.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\bin\Debug\net5.0\EvenAndOddIndexes.20.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\bin\Debug\net5.0\EvenAndOddIndexes.20.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\bin\Debug\net5.0\ref\EvenAndOddIndexes.20.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\bin\Debug\net5.0\EvenAndOddIndexes.20.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\obj\Debug\net5.0\EvenAndOddIndexes.20.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\obj\Debug\net5.0\EvenAndOddIndexes.20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\obj\Debug\net5.0\EvenAndOddIndexes.20.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\obj\Debug\net5.0\EvenAndOddIndexes.20.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\obj\Debug\net5.0\EvenAndOddIndexes.20.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\obj\Debug\net5.0\EvenAndOddIndexes.20.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\obj\Debug\net5.0\ref\EvenAndOddIndexes.20.dll
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\obj\Debug\net5.0\EvenAndOddIndexes.20.pdb
+C:\Users\TOSHIBA\Desktop\List Assessment\EvenAndOddIndexes.20\obj\Debug\net5.0\EvenAndOddIndexes.20.genruntimeconfig.cache

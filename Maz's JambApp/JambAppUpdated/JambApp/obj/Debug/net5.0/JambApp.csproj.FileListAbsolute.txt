@@ -1,0 +1,48 @@
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\bin\Debug\net5.0\JambApp.exe
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\bin\Debug\net5.0\JambApp.deps.json
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\bin\Debug\net5.0\JambApp.runtimeconfig.json
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\bin\Debug\net5.0\JambApp.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\bin\Debug\net5.0\JambApp.dll
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\bin\Debug\net5.0\ref\JambApp.dll
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\bin\Debug\net5.0\JambApp.pdb
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\obj\Debug\net5.0\JambApp.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\obj\Debug\net5.0\JambApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\obj\Debug\net5.0\JambApp.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\obj\Debug\net5.0\JambApp.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\obj\Debug\net5.0\JambApp.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\obj\Debug\net5.0\JambApp.dll
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\obj\Debug\net5.0\ref\JambApp.dll
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\obj\Debug\net5.0\JambApp.pdb
+C:\Users\Favour .O\Desktop\JambApp\Jambapp\obj\Debug\net5.0\JambApp.genruntimeconfig.cache
+C:\Codelearnershub\JambApp\JambApp\bin\Debug\net5.0\JambApp.exe
+C:\Codelearnershub\JambApp\JambApp\bin\Debug\net5.0\JambApp.deps.json
+C:\Codelearnershub\JambApp\JambApp\bin\Debug\net5.0\JambApp.runtimeconfig.json
+C:\Codelearnershub\JambApp\JambApp\bin\Debug\net5.0\JambApp.runtimeconfig.dev.json
+C:\Codelearnershub\JambApp\JambApp\bin\Debug\net5.0\JambApp.dll
+C:\Codelearnershub\JambApp\JambApp\bin\Debug\net5.0\ref\JambApp.dll
+C:\Codelearnershub\JambApp\JambApp\bin\Debug\net5.0\JambApp.pdb
+C:\Codelearnershub\JambApp\JambApp\obj\Debug\net5.0\JambApp.csprojAssemblyReference.cache
+C:\Codelearnershub\JambApp\JambApp\obj\Debug\net5.0\JambApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codelearnershub\JambApp\JambApp\obj\Debug\net5.0\JambApp.AssemblyInfoInputs.cache
+C:\Codelearnershub\JambApp\JambApp\obj\Debug\net5.0\JambApp.AssemblyInfo.cs
+C:\Codelearnershub\JambApp\JambApp\obj\Debug\net5.0\JambApp.csproj.CoreCompileInputs.cache
+C:\Codelearnershub\JambApp\JambApp\obj\Debug\net5.0\JambApp.dll
+C:\Codelearnershub\JambApp\JambApp\obj\Debug\net5.0\ref\JambApp.dll
+C:\Codelearnershub\JambApp\JambApp\obj\Debug\net5.0\JambApp.pdb
+C:\Codelearnershub\JambApp\JambApp\obj\Debug\net5.0\JambApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\bin\Debug\net5.0\JambApp.exe
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\bin\Debug\net5.0\JambApp.deps.json
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\bin\Debug\net5.0\JambApp.runtimeconfig.json
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\bin\Debug\net5.0\JambApp.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\bin\Debug\net5.0\JambApp.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\bin\Debug\net5.0\ref\JambApp.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\bin\Debug\net5.0\JambApp.pdb
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\obj\Debug\net5.0\JambApp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\obj\Debug\net5.0\JambApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\obj\Debug\net5.0\JambApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\obj\Debug\net5.0\JambApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\obj\Debug\net5.0\JambApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\obj\Debug\net5.0\JambApp.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\obj\Debug\net5.0\ref\JambApp.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\obj\Debug\net5.0\JambApp.pdb
+C:\Users\HP\Desktop\Maz's\C# Business\Maz's JambApp\JambAppUpdated\JambApp\obj\Debug\net5.0\JambApp.genruntimeconfig.cache

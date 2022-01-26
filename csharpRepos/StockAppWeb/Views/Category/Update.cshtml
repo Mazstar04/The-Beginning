@@ -1,0 +1,11 @@
+
+@model Category
+<h1>Update Category</h1>
+<form method="post">
+    <input type="hidden" name="id" value="@Model.Id"/>
+    <label>Name:.</label><input name="name" value="@Model.Name" type="text"/><br><br>
+    <div>
+        <button class="btn btn-success" type="submit">Update</button>
+    </div>
+</form>
+

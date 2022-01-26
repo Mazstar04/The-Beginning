@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\bin\Debug\net5.0\SwapNumbers.2.exe
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\bin\Debug\net5.0\SwapNumbers.2.deps.json
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\bin\Debug\net5.0\SwapNumbers.2.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\bin\Debug\net5.0\SwapNumbers.2.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\bin\Debug\net5.0\SwapNumbers.2.dll
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\bin\Debug\net5.0\ref\SwapNumbers.2.dll
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\bin\Debug\net5.0\SwapNumbers.2.pdb
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\obj\Debug\net5.0\SwapNumbers.2.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\obj\Debug\net5.0\SwapNumbers.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\obj\Debug\net5.0\SwapNumbers.2.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\obj\Debug\net5.0\SwapNumbers.2.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\obj\Debug\net5.0\SwapNumbers.2.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\obj\Debug\net5.0\SwapNumbers.2.dll
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\obj\Debug\net5.0\ref\SwapNumbers.2.dll
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\obj\Debug\net5.0\SwapNumbers.2.pdb
+C:\Users\TOSHIBA\Desktop\Ass\SwapNumbers.2\obj\Debug\net5.0\SwapNumbers.2.genruntimeconfig.cache

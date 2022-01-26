@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\bin\Debug\net5.0\Subscription.exe
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\bin\Debug\net5.0\Subscription.deps.json
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\bin\Debug\net5.0\Subscription.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\bin\Debug\net5.0\Subscription.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\bin\Debug\net5.0\Subscription.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\bin\Debug\net5.0\ref\Subscription.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\bin\Debug\net5.0\Subscription.pdb
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\obj\Debug\net5.0\Subscription.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\obj\Debug\net5.0\Subscription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\obj\Debug\net5.0\Subscription.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\obj\Debug\net5.0\Subscription.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\obj\Debug\net5.0\Subscription.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\obj\Debug\net5.0\Subscription.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\obj\Debug\net5.0\ref\Subscription.dll
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\obj\Debug\net5.0\Subscription.pdb
+C:\Users\TOSHIBA\Desktop\CSharp\Subscription\obj\Debug\net5.0\Subscription.genruntimeconfig.cache

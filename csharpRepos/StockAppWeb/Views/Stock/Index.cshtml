@@ -1,0 +1,48 @@
+@model List<Stock>
+
+@{
+    ViewData["Title"] = "Stock";
+}
+
+<div class="card">
+    <div class="card-header">
+        <a class="btn btn-success" asp-controller="Stock" asp-action="Create">Add Stock</a>
+        <a class="btn btn-success" asp-controller="Stock" asp-action="Expensive">Expensive Stock</a>
+    </div> 
+</div>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr style="color:green">
+            <th>Id</th>
+            <th>Brand</th>
+            <th>Name</th>
+            <th>CostPrice</th>
+            <th>SellingPrice</th>
+            <th>SKU</th>
+            <th>Quantity</th>
+            <th>Category</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Stock stock in Model)
+        {
+            <tr style="color:green">
+                <td>@stock.Id</td>
+                <td>@stock.Brand</td>
+                <td>@stock.Name</td>
+                <td>@stock.CostPrice</td>
+                <td>@stock.SellingPrice</td>
+                <td>@stock.SKU</td>
+                <td>@stock.Quantity</td>
+                <td>@stock.Category</td>
+                <td>
+                    <a class="btn btn-primary" asp-action="Detail" asp-route-id="@stock.Id">View Stock</a> 
+                    <a class="btn btn-success" asp-action="Update" asp-route-id="@stock.Id">Update Stock</a> 
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@stock.Id">Delete Stock</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

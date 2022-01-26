@@ -1,0 +1,32 @@
+C:\Users\HP\Desktop\Multiply\obj\Debug\net5.0\Multiply.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Multiply\obj\Debug\net5.0\Multiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Multiply\obj\Debug\net5.0\Multiply.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Multiply\obj\Debug\net5.0\Multiply.AssemblyInfo.cs
+C:\Users\HP\Desktop\Multiply\obj\Debug\net5.0\Multiply.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Multiply\bin\Debug\net5.0\Multiply.exe
+C:\Users\HP\Desktop\Multiply\bin\Debug\net5.0\Multiply.deps.json
+C:\Users\HP\Desktop\Multiply\bin\Debug\net5.0\Multiply.runtimeconfig.json
+C:\Users\HP\Desktop\Multiply\bin\Debug\net5.0\Multiply.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Multiply\bin\Debug\net5.0\Multiply.dll
+C:\Users\HP\Desktop\Multiply\bin\Debug\net5.0\ref\Multiply.dll
+C:\Users\HP\Desktop\Multiply\bin\Debug\net5.0\Multiply.pdb
+C:\Users\HP\Desktop\Multiply\obj\Debug\net5.0\Multiply.dll
+C:\Users\HP\Desktop\Multiply\obj\Debug\net5.0\ref\Multiply.dll
+C:\Users\HP\Desktop\Multiply\obj\Debug\net5.0\Multiply.pdb
+C:\Users\HP\Desktop\Multiply\obj\Debug\net5.0\Multiply.genruntimeconfig.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\bin\Debug\net5.0\Multiply.exe
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\bin\Debug\net5.0\Multiply.deps.json
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\bin\Debug\net5.0\Multiply.runtimeconfig.json
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\bin\Debug\net5.0\Multiply.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\bin\Debug\net5.0\Multiply.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\bin\Debug\net5.0\ref\Multiply.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\bin\Debug\net5.0\Multiply.pdb
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\obj\Debug\net5.0\Multiply.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\obj\Debug\net5.0\Multiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\obj\Debug\net5.0\Multiply.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\obj\Debug\net5.0\Multiply.AssemblyInfo.cs
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\obj\Debug\net5.0\Multiply.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\obj\Debug\net5.0\Multiply.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\obj\Debug\net5.0\ref\Multiply.dll
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\obj\Debug\net5.0\Multiply.pdb
+C:\Users\HP\Desktop\Maz's\C# Business\Multiply\obj\Debug\net5.0\Multiply.genruntimeconfig.cache

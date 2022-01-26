@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "Category";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h1 class="text-center" style="color: green">Latest Categories</h1>
+        <a class="btn btn-success" asp-controller="Category" asp-action="Index">Go to Category</a>
+    </div>
+
+    <div class="card-body">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr style="color:green">
+                    <th >Id</th>
+                    <th>Name</th>
+                    <th>CreatedAt</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Category category in Model)
+                {
+                    <tr style="color:green">
+                        <td>@category.Id</td>
+                        <td>@category.Name</td>
+                        <td>@category.CreatedAt</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
